@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Attract or Distract: Exploit the Margin of Open Set"
-authors: []
+authors: [Feng Qianyu, Kang Guoliang, Fan Hehe, Yang Yi]
 date: 2019-09-10T14:11:43+10:00
 doi: ""
 
@@ -16,7 +16,7 @@ publishDate: 2019-09-10T14:11:43+10:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "IEEE International Conference on Computer Vision (ICCV) 2019"
 publication_short: ""
 
 abstract: "Open set domain adaptation aims to diminish the domain shift across domains, with partially shared classes. There exist unknown target samples out of the knowledge of source domain. Compared to the close set setting, how to separate the unknown (unshared) class from the known (shared) ones plays a key role. Whereas, previous methods did not emphasize the semantic structure of the open set data, which may introduce bias into the domain alignment and confuse the classifier around the decision boundary. In this paper, we exploit the semantic structure of open set data from two aspects: 1) Semantic Categorical Alignment, which aims to achieve good separability of target known classes by categorically aligning the centroid of target with the source. 2) Semantic Contrastive Mapping, which aims to push the unknown class away from the decision boundary. Empirically, we demonstrate that our method performs favourably against the state-of-the-art methods on representative benchmarks, eg Digit datasets and Office-31 datasets."

@@ -1,0 +1,11 @@
+.article-metadata .author-name {
+  line-height: normal;
+  font-style: normal;
+  font-size: 0.8rem;
+  color: #3170A5;
+}
+
+.article-metadata .pub-publication {
+  color: #090;
+  font-size: 0.8rem;
+}
