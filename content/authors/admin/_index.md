@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Technology Sydney
-    year: 2018-now
+    year: 2018-2022
   - course: MEng in Control Engineering
     institution: Shanghai Jiao Tong University
     year: 2015-2018
@@ -45,12 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:qianyufeng718@gmail.com  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/qyfeng2
+  link: https://www.linkedin.com/in/fengqianyu/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=d0EHVf0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/qy-feng
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS ReLER Lab. Her research interests include linguistic-vision cross-domain. 
+Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS ReLER Lab. Her research interests include linguistic-vision abd cross-domain. 
