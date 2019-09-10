@@ -25,6 +25,10 @@
   {{ $microdata_type = "CreativeWork" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
+{{ else if eq $item.Type "competitions" }}
+  {{ $microdata_type = "ScholarlyArticle" }}
+  {{ $show_authors_only = true }}
+  {{ $show_buttons = true }}
 {{ end }}
 
 {{/* Get summary. */}}

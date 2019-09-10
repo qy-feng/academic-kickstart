@@ -9,3 +9,13 @@
   color: #090;
   font-size: 0.8rem;
 }
+
+.article-metadata {
+    margin-bottom: 0px;
+    overflow: hidden;
+    font-size: 14px;
+    letter-spacing: .03em;
+    color: rgba(0,0,0,.54);
+}
+
+
