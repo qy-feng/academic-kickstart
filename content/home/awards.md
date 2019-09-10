@@ -47,10 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-* Shanghai Jiao Tong University Outstanding Graduates, 2018
-* National Scholarship, 2016
-* Lixin Tang Scholarship, 2016
-* Shanghai Outstanding Graduates, 2015
 * Freescale Cup Intelligent Car Competition, First Prize, 2014
 * National Undergraduate Physics Contest, First Prize, 2013
 * National Undergraduate Mathematical Modeling Contest, Second Prize, 2013
