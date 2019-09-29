@@ -48,5 +48,5 @@ subtitle = ""
 +++
 
  * [August 2019] Our team ranks 3rd for both semi-supervised video object segmentation track and video instance segmentation track in the ICCV2019 2nd [Youtube-VOS](https://youtube-vos.org/challenge/2019/) Challenges.
- * [August 2019] One paper accepted in ICCV2019.
+ * [August 2019] One paper accepted in ICCV2019 and two paper accepted in ICCV2019 Workshop.
 
