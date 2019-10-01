@@ -28,16 +28,16 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Technology Sydney
+    institution: University of Technology Sydney, Australia
     year: 2018-now
-  - course: MEng in Information System
-    institution: L'Institute Mines Télécom Alès
-    year: 2014-2016
   - course: MEng in Control Engineering
-    institution: Shanghai Jiao Tong University
+    institution: Shanghai Jiao Tong University, China
     year: 2015-2018
+  - course: MEng in Information System
+    institution: L'Institute Mines Télécom Alès, France
+    year: 2014-2016
   - course: BSc in Automation Engineering
-    institution: Shanghai Jiao Tong University
+    institution: Shanghai Jiao Tong University, China
     year: 2011-2015
 
 # Social/Academic Networking
