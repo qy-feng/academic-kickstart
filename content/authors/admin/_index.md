@@ -29,7 +29,10 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Technology Sydney
-    year: 2018-2022
+    year: 2018-now
+  - course: MEng in Information System
+    institution: L'Institute Mines Télécom Alès
+    year: 2014-2016
   - course: MEng in Control Engineering
     institution: Shanghai Jiao Tong University
     year: 2015-2018
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS ReLER Lab. Her research interests include linguistic-vision abd cross-domain. 
+Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS [ReLER](http://reler.net/) Lab. Her research interests include cross-domain representation learning and linguistic-vision applications. 
