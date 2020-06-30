@@ -16,7 +16,7 @@ publishDate: 2019-09-29T10:46:33+10:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE International Conference on Computer Vision Workshop (ICCVW) 2019"
+publication: "IEEE International Conference on Computer Vision (ICCV) Workshop 2019"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://openaccess.thecvf.com/content_ICCVW_2019/papers/YouTube-VOS/Feng_Dual_Embedding_Learning_for_Video_Instance_Segmentation_ICCVW_2019_paper.pdf
 url_code:
 url_dataset:
 url_poster:

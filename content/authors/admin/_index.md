@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Technology Sydney, Australia
-    year: 2018-now
+    year: 2018-2022
   - course: MEng in Control Engineering
     institution: Shanghai Jiao Tong University, China
     year: 2015-2018
