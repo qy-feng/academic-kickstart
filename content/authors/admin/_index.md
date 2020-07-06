@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS [ReLER](http://reler.net/) Lab. Her research interests include cross-domain representation learning and linguistic-vision applications. 
+Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS [ReLER](http://reler.net/) Lab. Her research interests include cross-domain representation learning and linguistic-vision applications. She is fluent in multiple languages, including Chinese, English and French.
