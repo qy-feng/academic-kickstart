@@ -58,19 +58,20 @@ social:
   icon_pack: fab
   link: https://github.com/qy-feng
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS [ReLER](http://reler.net/) Lab. Her research interests include cross-domain representation learning and linguistic-vision applications. She is fluent in multiple languages, including Chinese, English and French.
+Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS [ReLER](http://reler.net/) Lab, supervised by [Prof.Yi Yang](http://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en). Her research interests include cross-domain representation learning and linguistic-vision applications.
+She is fluent in multiple languages, including Chinese, English and French. She is a memeber of [Women in Engineering and IT](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/women-engineering-and-it).
