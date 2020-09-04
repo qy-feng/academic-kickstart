@@ -48,6 +48,7 @@ subtitle = ""
 +++
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
+* Sep 2020, Alibaba Damo Academy <span class="iconify" data-icon="ant-design:alibaba-outlined" data-inline="false" data-width="36" data-height="36"></span>, Research Intern 
 * Dec 2017 – Jun 2018, Samsung Research <span class="iconify" data-icon="simple-icons:samsung" data-inline="false" data-width="48" data-height="48"></span>, Research Intern 
 * Jun 2017 – Oct 2017, Microsoft <span class="iconify" data-icon="bx:bxl-microsoft" data-inline="false" data-width="24" data-height="24"></span>, Program Manager Intern 
 * Nov 2016 – Feb 2017, Paypal <span class="iconify" data-icon="bx:bxl-paypal" data-inline="false" data-width="24" data-height="24"></span>, Data Engineer Intern 
