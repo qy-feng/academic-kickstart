@@ -46,7 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-* Freescale Cup Intelligent Car Competition, First Prize, 2014
-* National Undergraduate Physics Contest, First Prize, 2013
-* National Undergraduate Mathematical Modeling Contest, Second Prize, 2013
+* FEIT Femal HDR Scholarship
+* Google Girl Hackthon, 1st Award
+* CCF Big Data and Computing Intelligence Contest, 2nd Prize
+* National Post-Graduate Mathematical Contest in Modelling, 3rd Prize
+* Freescale Cup Intelligent Car Competition, 1st Prize
+* National Robotic Competition RoboCup, 1st Award

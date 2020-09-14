@@ -1,6 +1,6 @@
 ---
-title: "3rd Place of the 2nd Youtube-VOS Challenge"
-#- authors: [Qianyu Feng, Zongxin Yang, Peike Li, Yunchao Wei, Yi Yang]
+title: "ICCV2019 Youtube-VOS Challenge 3rd Place"
+#- authors:[]
 #- admin
 date: ""
 doi: ""
@@ -20,7 +20,7 @@ publication_short:
 
 # abstract: Winner of single-person human parsing, the multi-person human parsing and multi-person video human parsing tasks.
 # Summary. An optional shortened abstract.
-summary: Video Instance Segmentation Task (Track 2)
+summary: Semi-supervised Video Object Segmentation (Track 1) & Video Instance Segmentation Task (Track 2)
 
 tags:
 - Competition
@@ -29,6 +29,8 @@ featured: true
 links:
 - name: Details
   url: https://youtube-vos.org/challenge/2019/
+- name: LeaderBoard
+  url: https://youtube-vos.org/challenge/2019/leaderboard/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
