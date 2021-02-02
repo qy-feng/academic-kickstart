@@ -73,5 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS [ReLER](http://reler.net/) Lab, supervised by [Prof.Yi Yang](http://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en). Her research interests include cross-domain representation learning and linguistic-vision applications.
-She is fluent in multiple languages, including Chinese, English and French. She is a memeber of [Women in Engineering and IT](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/women-engineering-and-it).
+Qianyu Feng is a second-year Ph.D. student at [ReLER Lab](http://reler.net/), [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence), [University of Technology Sydney (UTS)](https://www.uts.edu.au/). Her academic advisors are [Prof. Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en) and [Prof. Liang Zheng](https://scholar.google.com/citations?user=vNHqr3oAAAAJ&hl=en). Her research interests include cross-domain representation learning and linguistic-vision applications. She speaks fluent in multiple languages, including Chinese, English and French. She is an advocator and member of [Women in Engineering and IT](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/women-engineering-and-it). She is building AI systems aligning **human-centred values** and ensuring the **fairness, reliability and accountability** throughout their lifecycle.
+
+> Artificial Intelligence Is Too Important to Leave to Men Alone

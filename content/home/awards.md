@@ -46,10 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-* FEIT Female HDR Scholarships, 2019
-* Google Girl Hackthon, 1st Award, 2017
-* CCF Big Data and Computing Intelligence Contest, 2nd Prize, 2016
-* Freescale Cup Intelligent Car Competition, First Prize, 2014
-* National Robotic Competition RoboCup, First Prize, 2013
-* National Undergraduate Mathematical Modeling Contest, Second Prize, 2013
+* FEIT Femal HDR Scholarship
+* Google Girl Hackthon, 1st Award
+* CCF Big Data and Computing Intelligence Contest, 2nd Prize
+* National Post-Graduate Mathematical Contest in Modelling, 3rd Prize
+* Freescale Cup Intelligent Car Competition, 1st Prize
+* National Robotic Competition RoboCup, 1st Award
