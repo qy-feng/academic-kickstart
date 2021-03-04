@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Conditional Transductive Learning via Geometric Neural Processes"
-authors: [Qianyu Feng, Keyang Luo, Yawei Luo, Yi Yang]
+authors: [Qianyu Feng, Pingbo Pan, Alexander Hauptmann, Yi Yang]
 date: 2020-12-20T10:46:33+10:00
 doi: ""
 
