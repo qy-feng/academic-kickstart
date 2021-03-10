@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Look, Map and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data"
+title: "Look, Evolve and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data"
 authors: [Qianyu Feng, Keyang Luo, Yawei Luo, Yi Yang]
-date: 2020-11-20T10:46:33+10:00
+date: 2021-03-10T10:46:33+10:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-20T10:46:33+10:00
+publishDate: 2021-03-10T10:46:33+10:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Preprint"
 publication_short: ""
 
-abstract: "With abundant observation in the real world, it is easy for human to infer the stereo-structure with only a single view of an object. Is it possible for a model to acquire such ability without long-lasting training? It is promising that without the expensive 3D shape annotation, we can simply profit from the synthetic data, where pairwise ground-truth is easy to obtain. Nevertheless, the domain gap is not neglectable within the variant texture, shape and context. For the sake of overcoming such complexity, we propose a domain-adaptive network for 3D reconstruction, named LMM, to improve the generalization towards the natural scenario by fulfilling several aspects: (1) Look: enhancing the representation extracted from the single-view image by incorporating a Non-local Structured Attention module; (2) Map: leveraging the semantic information with unsupervised contrastive mapping for narrowing the domain gap with the knowledge priors; (3) Mold: recovering the elaborated representation into the desired stereo space with discernment and deep-set knowledge. Extensive experiments on several benchmarks demonstrate the effectiveness and robustness of the proposed method, LMM, in learning the 3D shape manifold from only a single-view image.
+abstract: "With daily observation and prior knowledge, it is easy for us human to infer the stereo structure via a single view. However, to equip the deep models with such ability usually requires abundant supervision. It is promising that without the elaborated 3D annotation, we can simply profit from the synthetic data, where pairwise ground-truth is easy to access. Nevertheless, the domain gap is not neglectable considering the variant texture, shape and context. To overcome these difficulties, we propose a domain-adaptive network for single-view 3D reconstruction, dubbed LEM, to generalize towards the natural scenario by fulfilling several aspects: (1) Look: incorporating spatial structure from the single view to enhance the representation; (2) Evolve: leveraging the semantic information with unsupervised contrastive mapping recurring to the shape priors; (3) Mold: transforming into the desired stereo manifold with discernment and semantic knowledge. Extensive experiments on several benchmarks demonstrate the effectiveness and robustness of the proposed method, LEM, in learning the 3D shape manifold from the synthetic data via a single-view
 "
 
 # Summary. An optional shortened abstract.
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2103.04789.pdf
 url_code:
 url_dataset:
 url_poster:
