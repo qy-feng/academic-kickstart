@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Towards Universal Visual Grounding via Comprehensive Space-Time Decomposition"
-authors: [Qianyu Feng, Yunchao Wei, Ming-Ming Cheng, Hongxia Yang, Yi Yang]
+title: "Decoupled Spatial Temporal Graphs for Generic Visual Grounding"
+authors: [Qianyu Feng, Yunchao Wei, Mingming Cheng, Yi Yang]
 date: 2020-11-20T10:46:33+10:00
 doi: ""
 
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2103.10191.pdf
 url_code:
 url_dataset:
 url_poster:
